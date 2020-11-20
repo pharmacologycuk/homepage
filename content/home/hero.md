@@ -4,7 +4,7 @@ widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # title = ""
-title = "약리학교실 홈페이지에 오신 것을 환영합니다."
+title = "가톨릭의대 약리학교실"
 # Population Approach Group in Korea
 # Order that this section will appear in.
 weight = 3
