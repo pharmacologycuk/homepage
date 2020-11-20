@@ -16,13 +16,13 @@
   weight = 1
 
 [[main]]
-  name = "위치 및 연락처"
+  name = "연혁"
   parent = "aboutpharm"
   url = "/abouthistory/"
   weight = 4
 
 [[main]]
-  name = "연혁"
+  name = "위치 및 연락처"
   parent = "aboutpharm"
   url = "/aboutpolicy/"
   weight = 3
@@ -38,20 +38,20 @@
   url = "/#/"
   weight = 30
 
-#[[main]]
-#  name = "Meetings"
-#  url = "/tutorial/"
-#  weight = 5
-
 [[main]]
   name = "연구분야"
   url = "/talk/"
   weight = 45
 
 [[main]]
-  name = "게시판"
-  url = "/photos/"
+  name = "교실소식"
+  url = "/post/"
   weight = 50
+
+[[main]]
+  name = "관련사이트"
+  url = "/links/"
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

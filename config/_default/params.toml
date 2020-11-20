@@ -9,7 +9,18 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Ocean"
+#   
+#   1950s.toml
+#   apogee.toml
+#   coffee.toml
+#   dark.toml
+#   forest.toml
+#   minimal.toml
+#   mr_robot.toml
+#   ocean.toml
+#   rose.toml
+#   strawberry.toml
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -22,7 +33,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "XL"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -41,14 +52,14 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "가톨릭의대 약리학교실"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "logo.png"
 
 ############################
 ## Site Features
@@ -85,8 +96,8 @@ edit_page = {repo_url = "https://github.com/pagkkr/pagk.kr", content_dir = "", r
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pagk2006@gmail.com"
-phone = "+82-2-2258-7882"
+email = "pharmacol@catholic.ac.kr"
+phone = "+82-2-2258-7330"
 
 # # Address
 # # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )

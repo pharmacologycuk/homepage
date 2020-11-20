@@ -39,7 +39,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Teaching"
   content = "앞서가는 약리학 교육"
-  align = "left"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/slider3.png"  # Image path relative to your `static/img/` folder.
@@ -53,7 +53,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = "Research"
   content = "최고 수준의 약리학 연구"
-  align = "right"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/slider2.png"  # Image path relative to your `static/img/` folder.
@@ -66,15 +66,15 @@ height = "calc(100vh - 70px)"
 
 [[item]]
   title = "Welcome"
-  content = "여러분과 소통하고 싶습니다"
+  content = "여러분과 교류하고 소통하고 싶습니다"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/slider4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
-  cta_label = "소식"
-  cta_url = "/photos/"
+  cta_label = "교실소식"
+  cta_url = "/post/"
   cta_icon_pack = "fas"
-  cta_icon = "pen"
+  cta_icon = "smile"
 +++
