@@ -4,44 +4,39 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "PAGK.kr"
+  name = "교실소개"
   identifier = "aboutpagk"
   url = "#"
   weight = 10
 
 [[main]]
-  name = "PAGK 소개"
+  name = "인사말씀/소개"
   parent = "aboutpagk"
   url = "/aboutpagk/"
   weight = 1
 
 [[main]]
-  name = "연혁"
+  name = "위치 및 연락처"
   parent = "aboutpagk"
   url = "/abouthistory/"
-  weight = 2
+  weight = 4
 
 [[main]]
-  name = "회칙"
+  name = "연혁"
   parent = "aboutpagk"
   url = "/aboutpolicy/"
   weight = 3
 
 [[main]]
-  name = "운영위원회"
+  name = "교수진소개"
   parent = "aboutpagk"
   url = "/steering-committee/"
-  weight = 4
+  weight = 3
 
 [[main]]
-  name = "Posts"
+  name = "교육분야"
   url = "/post/"
   weight = 30
-
-[[main]]
-  name = "Annual Meeting"
-  url = "/categories/annual-meeting/"
-  weight = 40
 
 #[[main]]
 #  name = "Meetings"
@@ -49,29 +44,14 @@
 #  weight = 5
 
 [[main]]
-  name = "Slides"
+  name = "연구분야"
   url = "/talk/"
   weight = 45
 
 [[main]]
-  name = "Photos"
+  name = "게시판"
   url = "/photos/"
   weight = 50
-
-[[main]]
-  name = "Groups.PAGK.kr↗"
-  url = "https://groups.pagk.kr"
-  weight = 60
-
-[[main]]
-  name = "Links"
-  url = "/links/"
-  weight = 70
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
