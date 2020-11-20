@@ -4,12 +4,12 @@ widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 # title = ""
-title = "가톨릭의대 약리학교실"
+title = "약리학교실"
 # Population Approach Group in Korea
 # Order that this section will appear in.
 weight = 3
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
 
 # Background (optional).
@@ -36,7 +36,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/aboutpagk/"
+  url = "/aboutpharm/"
   label = "인사말씀"
   icon_pack = "fas"
   icon = "capsules"

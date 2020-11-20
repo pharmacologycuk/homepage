@@ -5,37 +5,37 @@
 
 [[main]]
   name = "교실소개"
-  identifier = "aboutpagk"
+  identifier = "aboutpharm"
   url = "#"
   weight = 10
 
 [[main]]
   name = "인사말씀/소개"
-  parent = "aboutpagk"
-  url = "/aboutpagk/"
+  parent = "aboutpharm"
+  url = "/aboutpharm/"
   weight = 1
 
 [[main]]
   name = "위치 및 연락처"
-  parent = "aboutpagk"
+  parent = "aboutpharm"
   url = "/abouthistory/"
   weight = 4
 
 [[main]]
   name = "연혁"
-  parent = "aboutpagk"
+  parent = "aboutpharm"
   url = "/aboutpolicy/"
   weight = 3
 
 [[main]]
   name = "교수진소개"
-  parent = "aboutpagk"
-  url = "/steering-committee/"
-  weight = 3
+  parent = "aboutpharm"
+  url = "/people/"
+  weight = 2
 
 [[main]]
   name = "교육분야"
-  url = "/post/"
+  url = "/#/"
   weight = 30
 
 #[[main]]
