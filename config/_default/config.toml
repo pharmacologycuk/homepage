@@ -5,15 +5,15 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "PAGK"
+title = "가톨릭대학교 의과대학 약리학교실"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://pagk.netlify.com/"
+baseurl = "https://pharmacologycuk.netlify.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "PAGK &copy;"
+copyright = "가톨릭대학교 의과대학 약리학교실"
 
 ############################
 ## Advanced options below ##
