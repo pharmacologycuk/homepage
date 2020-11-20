@@ -3,8 +3,8 @@
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-# title = "Population Approach Group in Korea"
-title = "PAGK"
+# title = ""
+title = "약리학교실 홈페이지에 오신 것을 환영합니다."
 # Population Approach Group in Korea
 # Order that this section will appear in.
 weight = 3
@@ -37,15 +37,10 @@ hero_media = "hero-academic.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/aboutpagk/"
-  label = "PAGK 소개"
+  label = "인사말씀"
   icon_pack = "fas"
   icon = "capsules"
   
-[cta_alt]
-  url = "#contact"
-  label = "가입하기"
-  icon = "user-plus"
-
 # Note. An optional note to show underneath the links.
 #[cta_note]
 #  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic"><!-- V --></a>'
@@ -53,10 +48,10 @@ hero_media = "hero-academic.png"
 
 <!-- 한성필 추가 -->
 
-Population Approach Group in Korea  
-집단 약동 약력학 연구회
+College of Medicine   
+The Catholic University of Korea
 
-최적의 맞춤 약물 요법과 **신약 개발**
+**Department of Pharmacology**
 
 <!--
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/pagkorkr/pagk.or.kr" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
