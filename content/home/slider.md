@@ -70,7 +70,8 @@ height = "calc(100vh - 70px)"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/slider4.jpg"  # Image path relative to your `static/img/` folder.
+  
+  #overlay_img = "headers/slider4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "교실소식"
