@@ -1,46 +1,35 @@
 +++
-title = "Links"
+title = "참고사이트"
 date = "2016-05-05"
 +++
 
-링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pagkorkr/pagk.or.kr/issues/1)로 보고해 주십시오. 감사합니다.
+링크를 추가하고 싶거나 오류 등을 보고하고 싶으면 [여기](https://github.com/pharmacologycuk/homepage/issues/1)로 보고해 주십시오. 감사합니다.
 
-## KSCPT 관련
-[<img src="http://kscpt.org/Images/kpml.png" align="right" height=100>](http://repository.kpml.or.kr)
+## 교수 연구소/연구실
 
-- [대한임상약리학회](http://www.kscpt.org/)
-- [계량약리모델 라이브러리, Korean Pharmacometrics Model Library](http://repository.kscpt.org) [Introduction PDF](/introduction-kpml.pdf)
-    - <http://nca.kscpt.org>
-    - <http://ca.kscpt.org>
-    - <http://allometry.kscpt.org>
-    - <http://ivive.kscpt.org>
-
-## 해외 관련학회
-
-- [PAGJA - Population Approach Group in Japan](http://www.pagja.org/)
-- [PCPC - Professional Committee of Pharmacometrics in China](http://www.cnphars.org.cn/en/fzjg.asp?anclassid=2&nclassid=9)
-- [PAGE - Population Approach Group in Europe](https://www.page-meeting.org/)
-- [PAGANZ - Population Approach Group of Australia & New Zealand](https://www.paganz.org/)
-- [ACoP - American Conference on Pharmacometrics](https://www.go-acop.org/)
-
-## 병원, 연구소
-
-- [서울아산병원 임상약리학과](http://cpt.amc.seoul.kr)
 - [가톨릭대 계량약리학연구소 PIPET](http://www.pipet.or.kr)
-- [KAIST Math Biol Lab](http://mathsci.kaist.ac.kr/~jaekkim)
+- [소화기 암생물학 연구실](https://sardius86.wixsite.com/kimlaboratory)
 
-## 회사
+## 가톨릭대학교 관련 사이트
+1. 가톨릭대학교 (http://www.catholic.ac.kr/)
+2. 가톨릭대학교 의과대학 (http://medicine.catholic.ac.kr/)
+3. 가톨릭대학교 성의교정 (http://songeui.catholic.ac.kr/)
+4. 가톨릭대학교 성의교정 도서관 (http://lib.cuk.ac.kr/)
+5. 가톨릭중앙의료원 (http://www.cmc.or.kr/)
+6. 가톨릭대학교 산학협력단 (http://www.cukrnd-iacf.ac.kr)
+7. 가톨릭대학교 암연구소 (http://www.ccri.re.kr/)
 
-- [Qfitter](http://qfitter.com/)
+## 학회 관련 사이트
+1. 기초의학협의회 (http://www.basicmed.org)
+2. 대한약리학회 (http://www.kosphar.org/)
+3. [대한임상약리학회](http://www.kscpt.org/)
 
-## 기타 
-
-- [국가임상시험지원재단 KONECT](http://konect.or.kr)
-
-## 메일링리스트
-
-- [PAGK mailing list](https://groups.google.com/a/pagk.or.kr/forum/#!forum/list)
-- [KSCPT Issue & Issue](https://groups.google.com/a/kscpt.kr/forum/#!forum/qna)
-- [PAGK PK-PD Data Analysis using R Workshop](https://groups.google.com/a/acr.kr/forum/#!forum/w180713)
-- [제 11회 서울아산병원 임상약리학과 NONMEM Workshop](https://groups.google.com/a/acr.kr/forum/#!forum/nmw2018)
-
+## 연구 관련 사이트
+1. 한국연구재단 (http://www.nrf.re.kr/)
+2. 한국보건산업진흥원 (http://www.khidi.or.kr/)
+3. 식품의약품안전처 (http://www.mfds.go.kr/)
+4. 교육과학 기술부 (http://www.moe.go.kr)
+5. 한국세포주은행 (http://cellbank.snu.ac.kr/)
+6. 한국생명공학연구원 (http://www.kribb.re.kr/)
+7. 생물학 연구정보센터 (http://bric.postech.ac.kr)
+8. PubMed 검색 (http://www.ncbi.nlm.nih.gov/pubmed)
