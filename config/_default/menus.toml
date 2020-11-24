@@ -35,7 +35,7 @@
 
 [[main]]
   name = "교육분야"
-  url = "/#/"
+  url = "/tutorial/"
   weight = 30
 
 [[main]]
