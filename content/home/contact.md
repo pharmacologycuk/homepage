@@ -1,7 +1,7 @@
 +++
 # Contact widget.
 widget = "contact"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 
 title = "Contact"
 subtitle = ""
@@ -19,7 +19,7 @@ autolink = true
 email_form = 1
 +++
 
-PAGK 가입을 원하시는 분은 아래 성함(Name칸), 이메일(Email칸), 소속, 직위, 전공, 전화번호(Message칸)를 적어주시고
-가입비 1만원을 입금해 주십시오.
 
-그 외 문의사항은 아래에 남겨주시거나, PAGK 총무(pagk2006@gmail.com, 02-2258-7882)에게 연락해주세요. 
+가톨릭의대 약리학교실은 창의적인 함께 할 학생 및 연구자 분들을 찾고 있습니다.  
+대학원 지원 및 교육/연구 협업 등의 문의사항이 있으신 분은 연락처와 함께 내용을 기록해 주시면 최대한 빠른 시간 내에 답변 드리겠습니다.
+

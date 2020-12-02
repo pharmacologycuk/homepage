@@ -10,7 +10,7 @@ title = "약리학교실"
 weight = 3
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "hero-academic-new.png"
 
 # Background (optional).
 #   Choose from a background color, gradient, or image.
