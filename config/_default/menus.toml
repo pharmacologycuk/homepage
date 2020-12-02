@@ -21,11 +21,11 @@
   url = "/abouthistory/"
   weight = 4
 
-[[main]]
-  name = "위치 및 연락처"
-  parent = "aboutpharm"
-  url = "/aboutpolicy/"
-  weight = 3
+#[[main]]
+#  name = "위치 및 연락처"
+#  parent = "aboutpharm"
+#  url = "/aboutpolicy/"
+#  weight = 3
 
 [[main]]
   name = "교수진소개"
