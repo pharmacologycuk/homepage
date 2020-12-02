@@ -7,10 +7,10 @@ authors:
 - 7shan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: true 
 
 # Role/position
-role: 연구조교수
+# role: 연구조교수
 
 # Organizations/Affiliations
 organizations:
