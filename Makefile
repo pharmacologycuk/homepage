@@ -7,3 +7,5 @@ menu:
 about:
 	vim content/aboutpagk/_index.md
 
+mod:
+	hugo mod clean ; hugo mod get -u ./...
