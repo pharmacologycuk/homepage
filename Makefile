@@ -1,11 +1,16 @@
+mod-stable:
+	cp ./go-stable.mod ./go.mod
+
 serve:
 	Rscript -e "blogdown:::serve_site()"
 
 menu:
 	vim config/_default/menus.toml
 
-about:
-	vim content/aboutpagk/_index.md
+clean:
+	hugo mod clean
 
 mod:
-	hugo mod clean ; hugo mod get -u ./...
+	hugo mod get -u
+
+
