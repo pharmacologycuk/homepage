@@ -124,12 +124,14 @@ weight = 20
 - 소속 교실 : 생리학교실
 - E-mail : hjjang@catholic.ac.kr
 
-번호 | 수업일 | 교시 | 참여(담당)교수 | 수업명(수업제목) | 수업속성 | 강의실
--- | -- | -- | -- | -- | -- | --
-34 | 2020-12-09 | 2교시 - 2교시 | 성기욱 | Fundamental neuropharmacology | 강의 | 
-35 | 2020-12-09 | 3교시 - 4교시 | 한성필 | Cholinergic pharmacology | 강의 | 
-36 | 2020-12-09 | 5교시 - 5교시 | 김지윤 | Adrenergic pharmacology 1 | 강의 | 
-37 | 2020-12-10 | 1교시 - 1교시 | 김지윤 | Adrenergic pharmacology 2 | 강의 | 
-38 | 2020-12-10 | 2교시 - 3교시 | 성기욱 | Dopaminergic pharmacology | 강의 | 
-39 | 2020-12-10 | 4교시 - 5교시 | 조경옥 | GABAnergic pharmacology | 강의 | 
-40 | 2020-12-11 | 1교시 - 1교시 | 조경옥 | Glutamatergic pharmacology | 강의 | 
+
+번호 | 참여(담당)교수 | 수업명(수업제목) | 수업속성
+-- | -- | -- | --
+34 | 성기욱 | Fundamental neuropharmacology | 강의
+35 | 한성필 | Cholinergic pharmacology | 강의
+36 | 김지윤 | Adrenergic pharmacology 1 | 강의
+37 | 김지윤 | Adrenergic pharmacology 2 | 강의
+38 | 성기욱 | Dopaminergic pharmacology | 강의
+39 | 조경옥 | GABAnergic pharmacology | 강의
+40 | 조경옥 | Glutamatergic   pharmacology | 강의
+
