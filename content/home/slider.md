@@ -51,7 +51,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "교육분야"
-  cta_url = "#"
+  cta_url = "/tutorial/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
@@ -65,7 +65,7 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
   cta_label = "연구분야"
-  cta_url = "#"
+  cta_url = "/talk/"
   cta_icon_pack = "fas"
   cta_icon = "pen"
 
