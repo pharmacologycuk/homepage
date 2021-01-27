@@ -15,7 +15,7 @@ weight = 20
 
 # 주관 과정
 
-## 약물치료의 기초
+## 의과대학 - 약물치료의 기초
 
 **옴니버스 옴니아 교육과정: 의과대학 본과 1학년 강의**
 
@@ -24,55 +24,81 @@ weight = 20
 - 소속 교실 : 약리학교실
 - E-mail : sungkw@catholic.ac.kr
 
-번호 | 수업일 | 교시 | 참여(담당)교수 | 수업명(수업제목) | 수업속성 | 강의실
--- | -- | -- | -- | -- | -- | --
-1 | 2020-07-20 | 1교시 - 1교시 | 김성윤 | Introduction | 강의 | 422
-2 | 2020-07-20 | 2교시 - 3교시 | 김성윤 | How Drugs Act: Receptor Theory | 강의 | 422
-3 | 2020-07-20 | 4교시 - 5교시 | 김성윤 | How Drugs Act: Molecular Aspect of Drug Action | 강의 | 422
-4 | 2020-07-21 | 1교시 - 3교시 | 성기욱 | Pharmaco-dynamics | 강의 | 422
-5 | 2020-07-21 | 4교시 - 5교시 | 김지윤 | AutonomicPharmacology | 강의 | 422
-6 | 2020-07-21 | 6교시 - 8교시 | 조경옥 | CBL. MT & TBL (1) | 기초실습 | TBL 1
-7 | 2020-07-22 | 1교시 - 3교시 | 임동석 | Pharmaco-kinetics | 강의 | 422
-8 | 2020-07-22 | 4교시 - 5교시 | 한승훈 | Drug Metabolism | 강의 | 422
-9 | 2020-07-23 | 1교시 - 1교시 | 임동석 | Drug Transporters | 강의 | 422
-10 | 2020-07-23 | 2교시 - 3교시 | 한승훈 | Drug Toxicity | 강의 | 422
-11 | 2020-07-23 | 4교시 - 5교시 | 성기욱 | Ion Channel Pharmacology | 강의 | 422
-12 | 2020-07-24 | 1교시 - 2교시 | 성기욱 | Anesthetic Pharmacology: GeneralAnesthetics | 강의 | 422
-13 | 2020-07-24 | 3교시 - 3교시 | 한성필 | Pharmaco-gemonics | 강의 | 422
-14 | 2020-07-24 | 4교시 - 5교시 | 조경옥 | Inflammation &Immune Pharmacology | 강의 | 422
-15 | 2020-07-24 | 6교시 - 8교시 | 조경옥 | CBL. MT & TBL (2) | 기초실습 | TBL 1
-16 | 2020-07-27 | 1교시 - 2교시 | 성기욱 | Analgesia | 강의 | 422
-17 | 2020-07-27 | 3교시 - 3교시 | 한성필 | Case Discussion | 강의 | 422
-18 | 2020-07-27 | 4교시 - 5교시 | 조경옥 | Pharmacology of Cholesterol & Lipid Metabolism | 강의 | 422
-19 | 2020-07-28 | 1교시 - 3교시 | 조경옥 | Pharmacology ofHemostasis &Thrombosis | 강의 | 422
-20 | 2020-07-28 | 4교시 - 5교시 | 한승훈 | AutacoidPharmacology I: Eicosanoids | 강의 | 422
-21 | 2020-07-28 | 6교시 - 8교시 | 조경옥 | CBL. MT & TBL (3) | 기초실습 | TBL 1
-22 | 2020-07-29 | 1교시 - 2교시 | 조경옥 | Autacoid Pharmacology II: Histamine. Bradykinin | 강의 | 422
-23 | 2020-07-29 | 3교시 - 4교시 | 김성윤 | Endocrine Pharmacology: GeneralAspect | 강의 | 422
-24 | 2020-07-29 | 5교시 - 5교시 | 김지윤 | Endocrine Pharmacology: Target Organ Based | 강의 | 422
-25 | 2020-07-30 | 1교시 - 2교시 | 성기욱 | Drug Addiction | 강의 | 422
-26 | 2020-07-30 | 3교시 - 3교시 | 한성필 | Drug Delivery System | 강의 | 422
-27 | 2020-07-30 | 4교시 - 4교시 | 임동석 | Chemotherapy: Cell wall synthesis inhibitors | 강의 | 422
-28 | 2020-07-30 | 5교시 - 5교시 | 임동석 | Neutraceutical & Health Foods | 강의 | 422
-29 | 2020-08-12 | 3교시 - 3교시 | 성기욱 | 종합평가 | 평가 | 기타
+번호 | 참여(담당)교수 | 수업명(수업제목) | 수업속성
+-- | -- | -- | --
+1 | 김성윤 | Introduction | 강의
+2 | 김성윤 | How Drugs   Act: Receptor Theory | 강의
+3 | 김성윤 | How Drugs   Act: Molecular Aspect of Drug Action | 강의
+4 | 성기욱 | Pharmaco-dynamics | 강의
+5 | 김지윤 | AutonomicPharmacology | 강의
+6 | 조경옥 | CBL. MT   & TBL (1) | 기초실습
+7 | 임동석 | Pharmaco-kinetics | 강의
+8 | 한승훈 | Drug   Metabolism | 강의
+9 | 임동석 | Drug   Transporters | 강의
+10 | 한승훈 | Drug   Toxicity | 강의
+11 | 성기욱 | Ion Channel   Pharmacology | 강의
+12 | 성기욱 | Anesthetic   Pharmacology: GeneralAnesthetics | 강의
+13 | 한성필 | Pharmaco-gemonics | 강의
+14 | 조경옥 | Inflammation   &Immune Pharmacology | 강의
+15 | 조경옥 | CBL. MT   & TBL (2) | 기초실습
+16 | 성기욱 | Analgesia | 강의
+17 | 한성필 | Case   Discussion | 강의
+18 | 조경옥 | Pharmacology   of Cholesterol & Lipid Metabolism | 강의
+19 | 조경옥 | Pharmacology   ofHemostasis &Thrombosis | 강의
+20 | 한승훈 | AutacoidPharmacology   I: Eicosanoids | 강의
+21 | 조경옥 | CBL. MT   & TBL (3) | 기초실습
+22 | 조경옥 | Autacoid   Pharmacology II: Histamine. Bradykinin | 강의
+23 | 김성윤 | Endocrine   Pharmacology: GeneralAspect | 강의
+24 | 김지윤 | Endocrine   Pharmacology: Target Organ Based | 강의
+25 | 성기욱 | Drug   Addiction | 강의
+26 | 한성필 | Drug   Delivery System | 강의
+27 | 임동석 | Chemotherapy:   Cell wall synthesis inhibitors | 강의
+28 | 임동석 | Neutraceutical   & Health Foods | 강의
+29 | 성기욱 | 종합평가 | 평가
 
-
-## 임상약리학
+## 의과대학 - 임상약리학
 
 **옴니버스 옴니아 교육과정: 의과대학 본과 3학년 강의**
 
+- 책임교수명 : 임동석
+- 소속 기관 : 성의교정
+- 소속 교실 : 약리학교실
+- E-mail : yimds@catholic.ac.kr
+
+번호 | 참여(담당)교수 | 수업명(수업제목) | 수업속성
+-- | -- | -- | --
+1 | 임동석 | e-learning: 신약개발 1 | 강의
+2 | 임동석 | Introduction/의약품 규제의 역사 1 | 강의
+3 | 임동석 | Introduction/의약품 규제의 역사 2 | 강의
+4 | 한승훈 | 임상의가 알아야 할 임상약리학 기초 | 강의
+5 | 한승훈 | Drug-Drug interaction | 강의
+6 | 임동석 | e-learning: 신약개발 2 | 강의
+7 | 임동석 | Therapeutic Principle: Renal impairment | 강의
+8 | 임동석 | Therapeutic Principle: Cardiac/Hepatic diseases | 강의
+9 | 한성필 | Therapeutic Principle: Age/Sex | 강의
+10 | 한성필 | Therapeutic drug management | 강의
+11 | 한승훈 | e-learning: 임상시험 1 | 강의
+12 | 한승훈 | 신약개발과정/제약의학(레포트 시상) | 강의
+13 | 한성필 | Clinical trial & Good Clinical Practice (GCP) | 강의
+14 | 한성필 | 항체의약품 1 | 강의
+15 | 한성필 | 항체의약품 2 | 강의
+16 | 한승훈 | e-learning: 임상시험 2 | 강의
+17 | 한승훈 | Bioequivalence/ Biosimilar | 강의
+18 | 임동석 | 의약품 제형의 이해 | 강의
+19 | 한성필 | 약물경제학 | 강의
+20 | 한승훈 | 세포/유전자 치료제 | 강의
+21 | 임동석 | 종합평가 CBT (9시) | 평가
 
 
-
-
-## 약리학
-
-## 선택과정 - 데이터 과학을 활용한 약동학 파고들기
+## 의과대학 선택과정 - 데이터 과학을 활용한 약동학 파고들기
 
 **옴니버스 옴니아 교육과정: 의과대학 본과 1학년 강의**
 
-<https://github.com/pipetcpt/trainees>
-
+- 교수명 : 임동석, 한승훈, 한성필
+- 소속 기관 : 성의교정
+- 소속 교실 : 약리학교실
+- E-mail : shan@catholic.ac.kr
+- 교육자료: <https://github.com/pipetcpt/trainees>
 
 번호 | 참여(담당)교수 | 수업명(수업제목) | 수업속성
 -- | -- | -- | --
@@ -85,10 +111,11 @@ weight = 20
 7 | 한성필 | 약동학 보고서 자료   작성 및 Github를 통한 협업 방법 | 선택과정
 8 | 임동석 | 선택과정 요약 및   질문 답변 | 선택과정
 
+## 간호대학 - 약리학
 
 # 참여 과정
 
-## 신경계
+## 의과대학 - 신경계
 
 **옴니버스 옴니아 교육과정: 의과대학 본과 1학년 강의**
 
