@@ -7,8 +7,8 @@ date = "2016-05-05"
 
 ## 교수 연구소/연구실
 
-- [가톨릭대 계량약리학연구소 PIPET](http://www.pipet.or.kr)
-- [소화기 암생물학 연구실](https://sardius86.wixsite.com/kimlaboratory)
+1. 가톨릭대 계량약리학연구소 PIPET (http://www.pipet.or.kr)
+2. 소화기 암생물학 연구실 (https://sardius86.wixsite.com/kimlaboratory)
 
 ## 가톨릭대학교 관련 사이트
 1. 가톨릭대학교 (http://www.catholic.ac.kr/)
@@ -18,11 +18,13 @@ date = "2016-05-05"
 5. 가톨릭중앙의료원 (http://www.cmc.or.kr/)
 6. 가톨릭대학교 산학협력단 (http://www.cukrnd-iacf.ac.kr)
 7. 가톨릭대학교 암연구소 (http://www.ccri.re.kr/)
+8. 가톨릭대학교 대학원 의생명건강과학과 (http://gs-bms.catholic.ac.kr/)
+9. 가톨릭대학교 보건대학원 (https://songeui.catholic.ac.kr/gsph/)
 
 ## 학회 관련 사이트
 1. 기초의학협의회 (http://www.basicmed.org)
 2. 대한약리학회 (http://www.kosphar.org/)
-3. [대한임상약리학회](http://www.kscpt.org/)
+3. 대한임상약리학회 (http://www.kscpt.org/)
 
 ## 연구 관련 사이트
 1. 한국연구재단 (http://www.nrf.re.kr/)
