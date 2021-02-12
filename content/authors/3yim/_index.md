@@ -73,5 +73,5 @@ user_groups:
 - Omeprazole limited sampling strategies to predict area under the concentration-time curve ratios: implications for cytochrome P450 2C19 and 3A phenotyping, EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY, 201204
 
 ## 저서
+
 - 계량약리학 워크샵 초급과정, 부크크, 202007
-- 임상신경정신약물학, 시그마프레스, 201403
