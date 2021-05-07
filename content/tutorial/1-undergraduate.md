@@ -15,6 +15,73 @@ weight = 20
 
 ## 주관 과정
 
+### 의과대학 - 기초통합과정 (2021년 2학기부터)
+
+과목 | 시간 | 과목명
+-- | -- | --
+신경과학 | 2 | Fundamental   neuropharmacology
+신경과학 | 2 | Dopaminergic   pharmacology
+신경과학 | 2 | Pharmacology   of serotonergic and central adrenergic neurotransmission
+신경과학 | 2 | Local   anesthetics
+신경과학 | 2 | General   anesthetics
+신경과학 | 2 | Drugs   of abuse
+신경과학 | 2 | Pharmacology   of GABA & glutamatergic neurotransmission
+신경과학 | 2 | Antiseizure   drugs
+신경과학 | 2 | Analgesic   pharmacology
+신경과학 | 2 | Adrenergic   pharmacology
+신경과학 | 2 | Skeletal   muscle relaxants
+신경과학 | 2 | Cholinergic   pharmacology
+약리학 | 1 | 약리학   개론 및 교실 소개
+약리학 | 1 | 약물의   작용 원리: 수용체 이론
+약리학 | 2 | 약물의   작용 원리: 분자적 측면
+약리학 | 2 | 자율신경계   약리학
+약리학 | 1 | 내분비   약리학 원리
+약리학 | 1 | 부신겉질   약리학
+약리학 | 2 | Pharmacology   of diabetes mellitus
+약리학 | 2 | Pharmacology   of reproductive system
+약리학 | 3 | 약동학
+약리학 | 1 | 약물수송체
+약리학 | 2 | Pharmacology   of volume regulation: diuretics
+약리학 | 3 | 항균제   약리학
+약리학 | 2 | 항기생충제   약리학
+약리학 | 1 | 항진균제   약리학
+약리학 | 2 | 항바이러스제   약리학
+약리학 | 1 | 항암제   약리학의 원리
+약리학 | 1 | 세포독성   항암제 약리학
+약리학 | 1 | Target   항암제 약리학
+약리학 | 1 | 염증   및 면역 약리학 원리
+약리학 | 1 | Histamine,   bradykinin 약리학
+약리학 | 1 | 조혈   약리학
+약리학 | 2 | 면역   약리학
+약리학 | 1 | 약물배설1
+약리학 | 1 | 약물배설2 (TBL)
+약리학 | 1 | Tailored medicine   (TBL)
+약리학 | 2 | 약물상호작용
+약리학 | 2 | 신약개발과   임상시험
+약리학 | 2 | 약물독성
+약리학 | 1 | 항구토제/지사제/완하제
+약리학 | 1 | 면역항암제   약리학
+약리학 | 3 | 약력학
+약리학 | 2 | 약물대사
+약리학 | 1 | 약물 전달과 약물의 흡수
+약리학 | 1 | 약물유전체 (TBL)
+약리학 | 1 | Eicosanoid   약리학
+약리학 | 1 | NSAID   약리학
+질병과 치료의 원리 | 1 | Integrative   pharmacology: hypertension
+질병과 치료의 원리 | 1 | Integrative   pharmacology: ischemic heart disease
+질병과 치료의 원리 | 1 | Integrative   pharmacology: heart failure
+질병과 치료의 원리 | 2 | Pharmacology   of cardiac contractility
+질병과 치료의 원리 | 2 | Pharmacology   of cardiac rhythm
+질병과 치료의 원리 | 2 | Pharmacology   of cholesterol and lipid metabolism
+질병과 치료의 원리 | 3 | Pharmacology   of hemostasis and thrombosis
+질병과 치료의 원리 | 2 | Pharmacology   of respiratory drugs: asthma & COPD
+질병과 치료의 원리 | 2 | Antimycobacterial   drugs
+질병과 치료의 원리 | 2 | Pharmacology   of the thyroid
+질병과 치료의 원리 | 2 | Pharmacology   of bone mineral homeostasis
+질병과 치료의 원리 | 2 | Pharmacology   of peptic ulcer disease
+질병과 치료의 원리 | 2 | Pharmacology   of gastrokinetics & IBD
+질병과 치료의 원리 | 2 | Pharmacology   of vascular tone
+
 ### 의과대학 - 약물치료의 기초
 
 **옴니버스 옴니아 교육과정: 의과대학 본과 1학년 강의**
