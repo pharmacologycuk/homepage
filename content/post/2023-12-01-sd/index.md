@@ -5,7 +5,7 @@ categories: ["소식"]
 tags: [조경옥, 약리학, SDaward]
 ---
 
-![IMG_3943](https://github.com/pharmacologycuk/homepage/assets/6946821/19e78726-c2ae-41e8-8769-a07f81a8b498)
+<!--![IMG_3943](https://github.com/pharmacologycuk/homepage/assets/6946821/19e78726-c2ae-41e8-8769-a07f81a8b498)-->
 
 약리학교실(주임교수 조경옥)은 2023년 11월 23일 옴니버스파크 6층 세미나실에서 제1회 SD·약리학 Excellence Award 시상식을 개최했다고 밝혔다.
 
