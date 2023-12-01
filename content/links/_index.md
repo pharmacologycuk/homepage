@@ -8,7 +8,7 @@ date = "2016-05-05"
 ## 교수 연구소/연구실
 
 1. 가톨릭대 계량약리학연구소 PIPET (http://www.pipet.or.kr)
-2. 소화기 암생물학 연구실 (https://sardius86.wixsite.com/kimlaboratory)
+2. 세포소기관 기반 병리기전 및 질병치료 연구실 (https://sardius86.wixsite.com/kimlaboratory)
 
 ## 가톨릭대학교 관련 사이트
 1. 가톨릭대학교 (http://www.catholic.ac.kr/)
