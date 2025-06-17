@@ -23,15 +23,15 @@ interval = 3000
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  #title = "환영합니다"
-  #content = "I am center aligned :smile:"
+  title = "환영합니다"
+  content = "가톨릭의대 약리학교실"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#999"  # An HTML color value.
+  overlay_color = "#111"  # An HTML color value.
   overlay_img = "slider1.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.5 # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -40,6 +40,10 @@ interval = 3000
   #cta_url = "https://sourcethemes.com/academic/"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
+  cta_label = "교실소개"
+  cta_url = "/aboutpharm/"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
 
 [[item]]
   title = "Teaching"
@@ -74,8 +78,9 @@ interval = 3000
   content = "여러분과 교류하고 소통하고 싶습니다"
   align = "center"
 
+  overlay_color = "#333"  # An HTML color value.
   overlay_img = "slider4.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "교실소식"
   cta_url = "/post/"
